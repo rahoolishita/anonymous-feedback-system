@@ -1,4 +1,4 @@
-# Anonymous Feedback System
+# Employee-Manager Feedback System
 
 A comprehensive React-based web application for anonymous employee feedback with sentiment analysis.
 
